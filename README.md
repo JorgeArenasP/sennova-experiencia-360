@@ -1,3 +1,4 @@
+![Vista previa](prototipo.png)
 # Experiencia Inmersiva 360° - Proyecto SENNOVA
 
 ## Descripción
